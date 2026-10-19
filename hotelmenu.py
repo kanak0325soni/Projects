@@ -31,4 +31,4 @@ if another_order =="Yes":
     else:
         print(f"{item_2} is not available in menu")
 
-print("The total amount of item to pay is {order_total}")              
+print(f"The total amount of item to pay is {order_total}")              
